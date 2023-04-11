@@ -9,7 +9,7 @@ public class DemoTest {
 		//test
 		System.out.println("Alemat");
 		System.out.println("Alemat");
-		
+		System.out.println("Alemat");
 	}
 
 
