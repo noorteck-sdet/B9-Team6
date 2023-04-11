@@ -9,5 +9,7 @@ public class DemoTest {
 		System.out.println("Nasima");
 		
 		System.out.println("Farah ");
+		
+		System.out.println("Nikzad");
 	}
 }
