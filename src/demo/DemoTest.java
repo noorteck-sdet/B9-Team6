@@ -8,6 +8,6 @@ public class DemoTest {
 		
 		//test
 		
-		System.out.println("AWS...");
+		System.out.println("AWS....");
 	}
 }
