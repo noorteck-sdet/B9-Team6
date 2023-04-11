@@ -11,7 +11,7 @@ public class DemoTest {
 		System.out.println("Alemat");
 		System.out.println("Alemat");
 	}
-
+String name = "Alemat";
 
 
 }
